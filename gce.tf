@@ -19,7 +19,7 @@ resource "google_compute_instance" "default" {
  metadata_startup_script = "sudo apt-get update; sudo apt-get install -yq build-essential python-pip rsync; pip install flask"
 
  network_interface {
-   network = "default"
+   network = google_compute_network.vpc_network.self_link
 
    access_config {
      // Include this section to give the VM an external ip address
