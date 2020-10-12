@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "esoteric-energy-292213",
+  "private_key_id": "ce4585998a88808546aaa94c06a509df3af428f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIk7iJMfLRZuv7\n5Cw/reVucVGdMFxvENKuDGwBKR/ZiAocUZ+obBYLa0IM9p6bvHLkgi/L6YlxfQzp\nnFkEdo6bIEvqskqiVOx2Kel526t2or7nO62afXNhmlIjEdgLOCMwEG+zLcQV/3cK\n+IqsOGx4FgJsyt8gKtjDvNfs7/fl8jh3Y2KvyR+npCMNHu470EZ+VOSt60kME61s\n+rf5uSwiZpXlTbN5emgFFMlQFw1t6/6LGPqkgc7gqqvREfwP56e3F3LdJFCBt4tP\niEpLI6g70XXRf2KSf8bR2yaypHwiwpu0YDtSAm6WGEjplS8G+TFZ6h17LM/ZpeSZ\n5NcJdcdhAgMBAAECggEAAlm4z+LF9a4/FbSW0Cg5iBHL4wuuCZ8o2OFMYrcYqHPv\nqmVKea7Kk1eubnh1Y13R+tuLs9gIxEuy2wn6ARNimG7IdPeh6EUWgEv9cHAikkFV\n+1+3qRfPQlWMoNyUq4z83JNUu8TNh3R28Kn49guzObUIUj4OX1IhOCn+XchyHz+y\nGG4ahdcgxcuQXm6z6226dOat2z5zR9/KTMPsUV8PenbDKYrzyP+OtTK0ZXokD/3p\naF2427lZnQhF76c445mAzNndYCwWlfcacHkpO4uJZlfUgL4X3XpCWcymvnBIARQQ\nyy1mhLQDLT3ZR6Q8HlIO0E9aSXoRRhUrFFVY3w+QAQKBgQDuHhZFsR4sn4ejzvK7\n8tOdZeJPHzXzn4yTV2xCSMisyACQrRbO2AWkCiiED0J20Jt1TJWlhxqQ8j8lswD/\nXYcNxYWS6xX/Z8P18wwG5U5iTTU0I9yeKFzupm1gIm7/n3vR4wkhpWL/XY0AykbV\nvmYIWa8jk9DhdBEytGym9mpw3QKBgQDXo+bLrh4UDqpxPntpkxqy4rxU6psopiu1\n5iYZQnrhgvwlHi0d+wIyZR5n2/wTPKgR0XhB91V2eHUzea4jwZR301kh7ua7FWNy\n1fOx1D5Ko4ikJ2/l5Bg8Jm2YMzNWuet/Z0aI+RzOzYkboCJtw9ly4NdxoJMDrhmk\nD/5z8DumVQKBgQCoTZfMdp4vSCrlO3cSJVYxYDwPVK4bnmAMHLSmPS+qAEt19wGx\n/bou8gclIGwH8vaOeC0lrFK4tKCxks5XsNGuiDgbWhJYTg2SH9IWZal7jbrXOanM\nGBdnjzarxmrSPvWTqndf0rggaw0oy9A5b7RKnqlN6kKvuAwX3LMXaABf+QKBgQCx\nfr+iN5eaetfgjsWWiPcY93h9jP5Z3y1rdB03/XiX1vEkvEn2u317bbAxXOmIDA1r\nXTfXVHaMJWqTDD1CQTyrxNNBExvoMhrBk0obvc/oL+Nw+uUoHS+1kwvyk3JWmII3\nRBLS+/myX4vTqWOtZd++p0Ouy7U2+j8ww9l2JO90YQKBgQDaT6lBbq7FU8ZNf9+F\nG9/58SVXuvR1PIFBNYBqUypwPoZ/OKcVbbawmbh5SzOagWmExiUvEeyVkMmevtOF\nJhStosr5TkjoAYvbX9IGZj05dsnRZN7KcoDWsKgBnzZ9r9U/1nFgbV4O6TH51FGo\nK79lRU65ynH54t9+dbz1yDKaAA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "devops@esoteric-energy-292213.iam.gserviceaccount.com",
+  "client_id": "115222657724267160565",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devops%40esoteric-energy-292213.iam.gserviceaccount.com"
+}
+
